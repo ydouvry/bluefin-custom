@@ -1,0 +1,14 @@
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║         WORKSTATION AS CODE - CFGMGMTCAMP 2026           ║
+║                                                          ║
+║  This system is defined entirely as code.                ║
+║  Configuration: https://github.com/YOUR_USERNAME/        ║
+║                                                          ║
+║  To make changes:                                        ║
+║    1. Edit recipe.yml in your Git repository             ║
+║    2. Push to GitHub                                     ║
+║    3. GitHub Actions builds new image                    ║
+║    4. System updates automatically                       ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
